@@ -13,4 +13,7 @@
    <FileRef
       location = "group:Config.xcconfig.template">
    </FileRef>
+   <FileRef
+      location = "group:LICENSE 2">
+   </FileRef>
 </Workspace>
