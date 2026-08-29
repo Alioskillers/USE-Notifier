@@ -1,0 +1,21 @@
+//
+//   Config.xcconfig.template
+//   ErrorPager
+//
+//   INSTRUCTIONS:
+//   1. Copy this file to "Config.xcconfig" (remove .template)
+//   2. Fill in your real Better Stack credentials from:
+//      Better Stack → Integrations → SQL/ClickHouse HTTP connection
+//   3. Never commit Config.xcconfig to Git (it's in .gitignore)
+//
+//   Created by Ali Ahmed on 29/08/2026.
+//
+
+// Better Stack SQL/ClickHouse HTTP Connection Credentials
+BETTERSTACK_HOST = YOUR-REGION-connect.betterstackdata.com
+BETTERSTACK_USERNAME = YOUR_CLICKHOUSE_USERNAME
+BETTERSTACK_PASSWORD = YOUR_CLICKHOUSE_PASSWORD
+
+// Your source table name (format: tXXXXXX_source_name_logs)
+// You can find this in Better Stack → Integrations → SQL section
+BETTERSTACK_SOURCE_TABLE = tXXXXXX_your_source_logs

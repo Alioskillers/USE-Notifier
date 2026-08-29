@@ -1,0 +1,26 @@
+//
+//  Config.xcconfig.template
+//  USE-Notifier
+//
+//  Better Stack API Configuration Template
+//  
+//  INSTRUCTIONS:
+//  1. Copy this file and rename it to: Config.xcconfig
+//  2. Replace the placeholder values with your actual Better Stack credentials
+//  3. NEVER commit Config.xcconfig to version control
+//
+//  Get your credentials from:
+//  https://betterstack.com/logs > Your Source > Connect
+//
+
+// Your Better Stack ClickHouse host (e.g., eu-central-1a-connect.betterstackdata.com)
+BETTERSTACK_HOST = YOUR-REGION-connect.betterstackdata.com
+
+// Your ClickHouse username (found in Better Stack source settings)
+BETTERSTACK_USERNAME = YOUR_CLICKHOUSE_USERNAME_HERE
+
+// Your ClickHouse password (found in Better Stack source settings)
+BETTERSTACK_PASSWORD = YOUR_CLICKHOUSE_PASSWORD_HERE
+
+// Your source table name (e.g., t123456_your_app_logs)
+BETTERSTACK_SOURCE_TABLE = t123456_your_source_table_name
