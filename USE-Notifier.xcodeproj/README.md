@@ -4,11 +4,13 @@
 
 ![iOS](https://img.shields.io/badge/iOS-18.0+-blue.svg)
 ![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License](https://img.shields.io/badge/license-Proprietary-red.svg)
 
 **Real-time monitoring for Better Stack 500 errors on your iPhone**
 
 Stay informed about critical server errors with instant notifications, beautiful widgets, and comprehensive error tracking.
+
+> ⚠️ **License Notice**: This software is proprietary and requires explicit permission for use. See [LICENSE](LICENSE) for details.
 
 </div>
 
@@ -47,6 +49,8 @@ Stay informed about critical server errors with instant notifications, beautiful
 
 ## 🚀 Getting Started
 
+> **⚠️ IMPORTANT**: This software is proprietary. You must obtain explicit written permission from the author before using, modifying, or distributing this code. See the [LICENSE](LICENSE) file for full terms.
+
 ### Prerequisites
 
 - **Xcode 15.0+** (Xcode 16 recommended)
@@ -55,6 +59,8 @@ Stay informed about critical server errors with instant notifications, beautiful
 - **macOS 14.0+** for development
 
 ### Installation
+
+**For Evaluation/Review Only** - You may clone and review the code, but not use it without permission.
 
 1. **Clone the repository**
    ```bash
@@ -335,31 +341,28 @@ On a **real device** (doesn't work in simulator):
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under a **Proprietary License** - see the [LICENSE](LICENSE) file for full details.
 
----
+**Key Points:**
+- ❌ No permission to use, copy, or modify without explicit written authorization
+- ❌ No commercial or non-commercial use without permission
+- ❌ No distribution or derivative works allowed
+- ✅ Viewing the source code for evaluation purposes only
+- ✅ Contact the author to request a license
 
-## 👤 Author
+**To Request Permission:**
+1. Open an issue at: https://github.com/Alioskillers/USE-Notifier/issues
+2. Use the title: "License Request: [Your Use Case]"
+3. Include:
+   - Your intended use (commercial/personal)
+   - Expected duration
+   - Any modifications needed
+   - Your contact information
 
-**Ali Ahmed**
-
-- GitHub: [@Alioskillers](https://github.com/Alioskillers)
-
----
+The author will review and respond to license requests on a case-by-case basis.
+___
 
 ## 🙏 Acknowledgments
 
@@ -371,18 +374,36 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-If you have any questions or run into issues:
+**For Licensed Users:**
+
+If you have obtained a license and need support:
 
 1. Check the [Issues](https://github.com/Alioskillers/USE-Notifier/issues) page
 2. Create a new issue with detailed information
 3. Include Xcode version, iOS version, and steps to reproduce
 
+**For License Inquiries:**
+
+Contact via GitHub issues with the title "License Request" or "Licensing Question"
+
 ---
 
-<div align="center">
+## ⚖️ Legal Notice
 
-Made with ❤️ and Swift
+- This repository is made public for **portfolio and demonstration purposes only**
+- Viewing this code does **not** grant any usage rights
+- All rights are reserved by the author
+- Unauthorized use may result in legal action
+- By accessing this repository, you agree to the terms in the [LICENSE](LICENSE) file
+
+For commercial licensing opportunities or custom development, please contact the author through GitHub.
+
+---
 
 **Stay informed. Stay proactive. Never miss a critical error.**
+
+© 2026 Ali Ahmed. All Rights Reserved.
+
+[Request License](https://github.com/Alioskillers/USE-Notifier/issues/new) • [View Portfolio](https://github.com/Alioskillers)
 
 </div>
